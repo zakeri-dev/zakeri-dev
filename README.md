@@ -31,8 +31,8 @@ Expert in jurisprudence and principles, Motivated and experienced web developer 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Name</b></td>
-      <td><b>Owner</b></td>
+      <td><b>-</b></td>
+      <td><b>-</b></td>
     </tr>
   </thead>
   <tbody>
