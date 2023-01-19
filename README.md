@@ -33,27 +33,25 @@ Expert in jurisprudence and principles, Motivated and experienced web developer 
     <tr border: none;>
       <td><b>Name</b></td>
       <td><b>Owner</b></td>
-      <td><b>Link</b></td>
-      <td><b>Image</b></td>
+      <td><b>Perview</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td>Omega Do</td>
-      <td>jsj</td>
-      <td>ergreg</td>
+      <td><a href="https://master.tube"><b>Master Tube</b></a></td>
+      <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="40" height="40"/></td>
+      <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/82b4f464d6072e5e5abe9f615f80798ed1b3d2b7/macbook-pro-and-iphone-xs-mockup-scene@2x-2.png" alt="typescript" width="150"/></td>
     </tr>
-	  <tr>
-<td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td>Omega Do</td>
-      <td>jsj</td>
-      <td>ergreg</td>    </tr>
     <tr>
-<td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td>Omega Do</td>
-      <td>jsj</td>
-      <td>ergreg</td>    </tr>
+      <td><a href="https://master.tube"><b>Master Tube</b></a></td>
+      <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="40" height="40"/></td>
+      <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/82b4f464d6072e5e5abe9f615f80798ed1b3d2b7/macbook-pro-and-iphone-xs-mockup-scene@2x-2.png" alt="typescript" width="150"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://master.tube"><b>Master Tube</b></a></td>
+      <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="40" height="40"/></td>
+      <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/82b4f464d6072e5e5abe9f615f80798ed1b3d2b7/macbook-pro-and-iphone-xs-mockup-scene@2x-2.png" alt="typescript" width="150"/></td>
+    </tr>
   </tbody>
 </table>
 
