@@ -126,7 +126,7 @@ Expert in jurisprudence and principles, Motivated and experienced web developer 
                 <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_12.png" alt="typescript" width="150"/></td>
               </tr>
               <tr>
-                <td><a href="https://inic.ac/"><b>INIC WP</b></a></td>
+                <td><a href="https://inic.me/"><b>INIC</b></a></td>
                 <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/231571774712804ef225698b2014238a45e12957/jaguarsdev.jpg" alt="typescript" width="50"/></td>
                 <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/f02b689e69a84a597963b55b3cc37c1773990464/Untitled-3.jpg" alt="typescript" width="150"/></td>
               </tr>
