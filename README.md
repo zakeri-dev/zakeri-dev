@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Mahmoodreza zakeri</h1>
 <h3 align="center">A passionate developer from IRAN</h3>
 
-Expert in jurisprudence and principles, Motivated and experienced web developer with a background in WordPress development and Strapi. Seeking a new opportunity to continue building and optimizing large-scale websites and software, using my skills in coding, analysis, and debugging. Passionate about open-source technology and dedicated to improving my skills in the field.
+Expert in Motivated and experienced web developer with a background in WordPress development and Strapi. Seeking a new opportunity to continue building and optimizing large-scale websites and software, using my skills in coding, analysis, and debugging. Passionate about open-source technology and dedicated to improving my skills in the field.
 
 <h3 align="left">My Specialties:</h3>
 <p>
